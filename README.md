@@ -13,7 +13,7 @@ $ pip2 install mechanize
 
 $ pip2 install requests
 
-$ download https://www.pling.com/p/1415584/
+$ download at https://www.pling.com/p/1415584/
 
 $ cd storage
 
