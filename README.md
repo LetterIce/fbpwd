@@ -1,4 +1,5 @@
-# Install
+# Installation guide
+### Status ; tested
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/805aa5219dcd4c49a5fa19013fe969c2)](https://app.codacy.com/manual/LetterIce/fbpwd?utm_source=github.com&utm_medium=referral&utm_content=LetterIce/fbpwd&utm_campaign=Badge_Grade_Dashboard)
 
