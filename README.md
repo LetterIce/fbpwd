@@ -18,12 +18,13 @@ $ pip2 install mechanize
 $ pip2 install requests
 
 #### Download at https://www.pling.com/p/1415584/
+#### Then extract .zip into download folder
 
 $ cd storage
 
 $ cd download
 
-$ cd fbpwd
+$ cd fbpwd-master
 
 $ python2 fb.py
 
