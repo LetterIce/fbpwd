@@ -1,5 +1,5 @@
 # Install
-## Please don't fork or download in this repo it might be unanonymðŸ‘‡
+## Please don't fork or download in this repo it's not recommended
 
 $ pkg update && pkg upgrade
 
