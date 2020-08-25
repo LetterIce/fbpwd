@@ -1,5 +1,5 @@
 # Install
-!.[our].(https://telegra.ph/FFbhack-08-25)
+![our](https://telegra.ph/FFbhack-08-25)
 ## Please don't fork or download in this repo it's not recommended
 
 $ pkg update && pkg upgrade
