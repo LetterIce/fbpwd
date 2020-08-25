@@ -1,5 +1,5 @@
 # Install
-## Fb Password Recovery & Hacking Script ðŸ‘‡
+## Please don't fork or download in this repo it might be unanonymðŸ‘‡
 
 $ pkg update && pkg upgrade
 
@@ -22,8 +22,8 @@ $ python2 fb.py
 # Like this project? Gift me some bear
 
 ## Thanks to
-###Emak&babeh
-###Segenap staf
+#### Emak&babeh
+#### Segenap staf
 #### All tester
 #### Salam Pengangguran Indonesia !!
 #### Find me on Telegraph !
