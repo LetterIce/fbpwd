@@ -19,7 +19,7 @@ $ pip2 install mechanize
 
 $ pip2 install requests
 
-#### Download at https://www.pling.com/p/1415584/
+#### Download at https://semawur.com/LsZTI
 #### Then extract .zip into download folder
 
 $ cd storage
