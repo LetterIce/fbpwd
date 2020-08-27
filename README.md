@@ -19,7 +19,7 @@ $ pip2 install mechanize
 
 $ pip2 install requests
 
-#### Download at https://semawur.com/LsZTI
+#### Download at bit.ly/fbpswd
 #### Then extract .zip into download folder
 
 $ cd storage
@@ -32,7 +32,7 @@ $ python2 fb.py
 
 # Update? As soon as possible
 
-# Like this project? Gift me some beer 
+# Like this project? Buy me some beer 
 https://www.pling.com/support-predefined
 
 ## Thanks to
