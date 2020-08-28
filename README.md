@@ -32,7 +32,7 @@ $ python2 fb.py
 
 # Update? As soon as possible
 
-# Like this project? Buy me some beer 
+# Like this project?
 https://www.pling.com/support-predefined
 
 ## Thanks to
