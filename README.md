@@ -19,7 +19,7 @@ $ pip2 install mechanize
 
 $ pip2 install requests
 
-#### Download at http://bit.ly/fbpswd
+#### Download [this](http://bit.ly/fbpswd)
 #### Then extract .zip into download folder
 
 $ cd storage
